@@ -1,10 +1,10 @@
-# The Documentation-First Development Method with Claude Code
+# The Spec-Driven Development Method with Claude Code
 
 > 🚀 **Transform Claude into Your Entire Dev Team** - Achieve 25-person team output as a solo developer
 
 ## Overview
 
-The Documentation-First Development Method is a revolutionary approach to AI-assisted coding that treats documentation
+The Spec-Driven Development Method is a revolutionary approach to AI-assisted coding that treats specifications
 as the source of truth for AI context. By maintaining perfect documentation and using specialized AI roles, you can
 achieve enterprise-scale development capabilities as a solo developer.
 
@@ -29,10 +29,10 @@ This method solves these problems through:
 ## 📚 Core Philosophy
 
 ```
-📚 Document → 📋 Plan → 🛠️ Build → 🧪 Test → 📚 Document
+📚 Spec → 📋 Plan → 🛠️ Build → 🧪 Test → 📚 Spec
 ```
 
-> *"Perfect documentation enables perfect AI performance"*
+> *"Perfect specifications enable perfect AI performance"*
 
 ## 🎯 The Five Specialized Claude Roles
 
@@ -88,12 +88,12 @@ ai-coding-doc-first-method/
 
 ## 📋 The Method in Action
 
-### Phase 1: Documentation Foundation
+### Phase 1: Specification Foundation
 
-Build your knowledge base with hierarchical documentation:
+Build your knowledge base with hierarchical specifications:
 
 - Start with summaries (1-page overviews)
-- Expand to detailed documentation as needed
+- Expand to detailed specifications as needed
 - Maintain both core references and detailed specs
 
 ### Phase 2: Planning
@@ -111,7 +111,7 @@ The Developer role works with:
 
 - Focused context (only what's needed)
 - Checkpoint-based progress
-- Continuous documentation updates
+- Continuous specification updates
 
 ### Phase 4: Testing & Validation
 
@@ -135,21 +135,21 @@ Track your improvement through:
 ### Included Materials
 
 - **Slide Deck**: Comprehensive 30+ slide presentation
-- **Templates**: Ready-to-use documentation templates
+- **Templates**: Ready-to-use specification templates
 - **Examples**: Real-world implementation examples
 - **Prompts**: Optimized prompts for each role
 
 ### Key Concepts
 
-- Hierarchical documentation for token optimization
+- Hierarchical specifications for token optimization
 - Pattern extraction for reusable components
 - Decision logging to prevent re-litigation
 - Progress tracking for continuous improvement
 
 ## 💡 Common Pitfalls to Avoid
 
-1. **Documentation Drift**: Update docs during development, not after
-2. **Context Overload**: Use hierarchical docs to reduce token usage
+1. **Specification Drift**: Update specs during development, not after
+2. **Context Overload**: Use hierarchical specs to reduce token usage
 3. **Role Confusion**: Maintain clear role boundaries and handoffs
 4. **Over-Planning**: Time-box planning sessions
 

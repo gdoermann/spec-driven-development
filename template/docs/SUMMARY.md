@@ -37,7 +37,7 @@ Brief description of this business area and its importance.
 
 ## Development Workflow
 
-1. **Documentation First**: All features start with documentation
+1. **Specification First**: All features start with specifications
 2. **Plan Driven**: Features implemented according to detailed plans
 3. **Test Coverage**: All code includes appropriate tests
 4. **Code Review**: All changes reviewed before merge

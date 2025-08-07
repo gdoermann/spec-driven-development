@@ -1,4 +1,4 @@
-# Documentation-First Method Quick Reference
+# Spec-Driven Method Quick Reference
 
 ## The Five Roles at a Glance
 

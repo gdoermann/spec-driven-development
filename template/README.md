@@ -1,6 +1,6 @@
-# Documentation-First Development Method Template
+# Spec-Driven Development Method Template
 
-This template provides everything you need to implement the Documentation-First Development Method with Claude Code in your projects.
+This template provides everything you need to implement the Spec-Driven Development Method with Claude Code in your projects.
 
 ## What's Included
 
@@ -29,7 +29,7 @@ This template provides everything you need to implement the Documentation-First 
 ## Quick Start
 
 1. **Copy this template** to your project root
-2. **Start with documentation** using the Documenter role
+2. **Start with specifications** using the Documenter role
 3. **Audit for accuracy** using the Auditor role
 4. **Plan your feature** using the PM/Architect role
 5. **Implement** using the Developer role
@@ -99,4 +99,4 @@ template/
 
 ---
 
-*Transform your development process. Start with documentation, build with confidence.*
+*Transform your development process. Start with specifications, build with confidence.*

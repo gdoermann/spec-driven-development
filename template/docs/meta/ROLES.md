@@ -1,6 +1,6 @@
 # Claude Role Definitions
 
-This document defines the five specialized Claude roles used in the Documentation-First Development Method.
+This document defines the five specialized Claude roles used in the Spec-Driven Development Method.
 
 ## 📝 The Documenter
 

@@ -63,7 +63,7 @@ style: |
 
 <!-- _class: lead -->
 
-# The Documentation-First Development Method
+# The Spec-Driven Development Method
 ## with Claude Code
 
 ### Transform Claude into Your Entire Dev Team
@@ -97,7 +97,7 @@ style: |
 </div>
 </div>
 
-> **The Solution**: Treat documentation as the source of truth for AI context
+> **The Solution**: Treat specifications as the source of truth for AI context
 
 ---
 
@@ -606,7 +606,7 @@ Start small, build momentum
 
 ## Why This Method Works
 
-### Documentation-First
+### Specification-First
 - Each feature builds on the last
 - Context perfectly preserved
 - Quality continuously improves

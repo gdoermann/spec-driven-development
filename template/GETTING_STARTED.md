@@ -1,6 +1,6 @@
-# Getting Started with Documentation-First Development
+# Getting Started with Spec-Driven Development
 
-This guide will walk you through setting up and using the Documentation-First Development Method with Claude Code.
+This guide will walk you through setting up and using the Spec-Driven Development Method with Claude Code.
 
 ## Quick Start (10 minutes)
 

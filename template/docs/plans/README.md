@@ -122,4 +122,4 @@ Search for plans using your IDE's file search:
 
 ---
 
-*Plans are the heart of the Documentation-First Development Method. Keep them updated!*
+*Plans are the heart of the Spec-Driven Development Method. Keep them updated!*
